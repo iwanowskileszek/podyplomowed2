@@ -1,5 +1,5 @@
 # podyplomowe
 Repozytorium studiów podyplomowych JAVA
-# raz
-# dwa
-# trzy
+* raz
+* dwa
+* trzy
